@@ -6,7 +6,6 @@ To get them, just clone the repo and execute:
 
 ```bash
 pip3 install -r requirements.txt
-mkdir books
 ./downloader.py
 ```
 
